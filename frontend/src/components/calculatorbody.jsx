@@ -35,7 +35,7 @@ const handler = async (e) => {
     }
   }, []);
   return (
-    <div className="flex items-center justify-center bg-gray-800">
+    <div className="flex items-center justify-center bg-gray-700">
       <div className="border border-solid p-8 rounded-3xl shadow-xl w-110 bg-white ">
         {/* view history  */}
         <div className='bg-gray-100 text-gray-500 h-20 w-full text-2xl shadow-xl flex items-center justify-end'>
